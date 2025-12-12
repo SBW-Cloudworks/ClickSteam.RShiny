@@ -1,3 +1,4 @@
+![R](https://img.shields.io/badge/R-4.1+-blue.svg) ![Shiny](https://img.shields.io/badge/Shiny-1.7+-brightgreen.svg) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-blue.svg) ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-orange.svg)
 
 # SBW Clickstream Dashboard – Hướng dẫn cài Shiny + R trên EC2 (Private)
 
